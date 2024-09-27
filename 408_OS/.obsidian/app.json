@@ -1,0 +1,6 @@
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "readableLineLength": false
+}

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "c1f576c4ba94f760",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9153acc8999f3be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6449de62cac84d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机系统概念/4. 操作系统结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06ebcdb244fc0690",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c0a6d1a6631a96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62c6bc0455fae204",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd25f7e57e9c07bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cdb673c2a2b0f97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "be602002ebd048fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e59945fd912e6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8fd9cf59a5876f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机系统概念/4. 操作系统结构.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c4dc6e2bf0115c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "计算机系统概念/4. 操作系统结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71bd82717c75b60d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "502df04419fa4408",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机系统概念/4. 操作系统结构.md"
+              }
+            }
+          },
+          {
+            "id": "f3814d3c7c092154",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "6449de62cac84d6f",
+  "lastOpenFiles": [
+    "计算机系统概念/3. 运行环境.md",
+    "计算机系统概念/4. 操作系统结构.md",
+    "计算机系统概念/guide.md",
+    "计算机系统概念/img/运行环境/内中断和外中断的联系与区别.png",
+    "计算机系统概念/2. 发展历程.md",
+    "计算机系统概念/img/运行环境/系统调用执行过程.png",
+    "计算机系统概念/img/运行环境",
+    "计算机系统概念/1. 基本概念.md",
+    "计算机系统概念/img",
+    "计算机系统概念/未命名.md",
+    "目录.md",
+    "未命名.canvas",
+    "2024-09-26.md",
+    "IO 管理/1. IO 管理概述.md",
+    "IO 管理/3. 磁盘和固态硬盘.md",
+    "IO 管理/2. 设备独立性软件.md",
+    "文件管理/3. 文件系统.md",
+    "文件管理/2. 目录.md",
+    "文件管理/1. 文件系统基础.md",
+    "文件管理/guide.md",
+    "IO 管理/guide.md",
+    "内存管理/guide.md",
+    "内存管理/2. 虚拟内存管理.md",
+    "内存管理/1. 内存管理概念.md",
+    "进程与线程/4. 死锁.md",
+    "进程与线程/guide.md",
+    "进程与线程/3. 同步与互斥.md",
+    "进程与线程/2. 处理机调度.md",
+    "进程与线程/1. 概念.md",
+    "计算机系统概念/6. 虚拟机.md",
+    "IO 管理",
+    "文件管理",
+    "内存管理",
+    "进程与线程",
+    "计算机系统概念"
+  ]
+}
