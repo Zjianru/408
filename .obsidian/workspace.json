@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "f9520ec2fdcef363",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea843ed2f38e4885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a29058cd87d061ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "408_OS/进程与线程/2. 处理机调度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c3cd755dda7a216",
+    "type": "split",
+    "children": [
+      {
+        "id": "68da1261f5f6610f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f52634d163d8e667",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ff2d6c937339673",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9d59ec423230a18",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcd13fa29dbb322a",
+    "type": "split",
+    "children": [
+      {
+        "id": "494bec4f1dd5a592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d5cbfe8cad07cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "408_OS/进程与线程/2. 处理机调度.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ee89b4f73eec431",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "408_OS/进程与线程/2. 处理机调度.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9580cf2668499153",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8af0b285f55a9556",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "408_OS/进程与线程/2. 处理机调度.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a29058cd87d061ff",
+  "lastOpenFiles": [
+    "408_OS/进程与线程/4. 死锁.md",
+    "408_OS/进程与线程/img/死锁",
+    "408_OS/进程与线程/3. 同步与互斥.md",
+    "408_OS/进程与线程/img/同步与互斥",
+    "408_OS/进程与线程/2. 处理机调度.md",
+    "408_OS/进程与线程/img/处理机调度",
+    "408_OS/进程与线程/1. 进程与线程.md",
+    "408_OS/进程与线程/img/进程与线程/多线程模型.png",
+    "408_OS/进程与线程/img/进程与线程/用户级线程和内核级线程.png",
+    "408_OS/进程与线程/img/进程与线程/管道通信.png",
+    "408_OS/进程与线程/img/进程与线程/共享存储.png",
+    "408_OS/进程与线程/img/进程与线程/消息传递.png",
+    "408_OS/计算机系统概念/6. 虚拟机.md",
+    "408_OS/进程与线程/img/进程与线程/PCB 通常包含的内容.png",
+    "408_OS/进程与线程/img/进程与线程",
+    "408_OS/进程与线程/img",
+    "408_OS/进程与线程/img/进程与线程/5 态图.png",
+    "408_OS/计算机系统概念/内容 Guide.md",
+    "408_OS/进程与线程/内容 Guide.md",
+    "408_OS/计算机系统概念/img/虚拟机/第二类虚拟机管理程序.png",
+    "408_OS/计算机系统概念/img/虚拟机/第一类虚拟机管理程序.png",
+    "408_OS/计算机系统概念/img/虚拟机/两类虚拟机管理程序在系统中的位置.png",
+    "408_OS/计算机系统概念/img/虚拟机",
+    "408_OS/计算机系统概念/4. 操作系统结构.md",
+    "408_OS/计算机系统概念/5. 操作系统引导.md",
+    "408_OS/计算机系统概念/3. 运行环境.md",
+    "408_OS/计算机系统概念/2. 发展历程.md",
+    "408_OS/计算机系统概念/1. 基本概念.md"
+  ]
+}
