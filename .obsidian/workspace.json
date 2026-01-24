@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "5f809522a56ea9e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "adff711b9641141a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc562dca02c2f95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "594659830b0c7a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "929a6d5100a120da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1402586750d511a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f68a72196b326591",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9c682fc9eb9dab25",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9d832e18ab17aaae",
+    "type": "split",
+    "children": [
+      {
+        "id": "02a111a583408e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45bc35a23fa0e55f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_教材笔记/CO/chapter 01 计算机系统概述与性能/02_基本知识点.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "02_基本知识点.md 的反向链接列表"
+            }
+          },
+          {
+            "id": "beea12d080856a59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10_教材笔记/CO/chapter 01 计算机系统概述与性能/02_基本知识点.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "02_基本知识点.md 的出链列表"
+            }
+          },
+          {
+            "id": "6255f6bd106a542a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ba1f0c260fdd666b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "96ce73ce1e19a102",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10_教材笔记/CO/chapter 01 计算机系统概述与性能/02_基本知识点.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "02_基本知识点.md 的大纲"
+            }
+          },
+          {
+            "id": "742bd4dd7fa3ed2d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          },
+          {
+            "id": "6ad4be926c3fb9b7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "d9f283216ffd4fba",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "46305caef7f5a5e8",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          },
+          {
+            "id": "89bb3ec0111b643e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Chat": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "d9f283216ffd4fba",
+  "lastOpenFiles": [
+    "未命名 1.base",
+    "未命名.base",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/未命名.base",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources/02_计算机的基本组成.pdf",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/02_基本知识点.md.md",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources/03_计算机的性能指标.pdf",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources/01_从源码到可执行文件.pdf",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/01_chapter 概览.md.md",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources",
+    "99_Templates/02_基本知识点.md.md",
+    "未命名.md",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能",
+    "10_教材笔记/CO",
+    "99_Templates/04_心得与套路模板.md.md",
+    "99_Templates/03_题目与错题模板.md.md",
+    "Excalidraw/Drawing 2026-01-22 21.16.53.excalidraw.md",
+    "Excalidraw",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "04_心得与套路.md",
+    "03_题目与错题.md",
+    "欢迎.md",
+    "99_Templates",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+  ]
+}
