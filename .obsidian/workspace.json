@@ -11,10 +11,14 @@
             "id": "9fc562dca02c2f95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10_教材笔记/CO/chapter 01 计算机系统概述与性能/02_基本知识点.md.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "02_基本知识点.md"
             }
           }
         ]
@@ -241,19 +245,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d9f283216ffd4fba",
+  "active": "9fc562dca02c2f95",
   "lastOpenFiles": [
+    "未命名.md",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/02_基本知识点.md.md",
+    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/未命名.base",
     "未命名 1.base",
     "未命名.base",
-    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/未命名.base",
     "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources/02_计算机的基本组成.pdf",
-    "10_教材笔记/CO/chapter 01 计算机系统概述与性能/02_基本知识点.md.md",
     "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources/03_计算机的性能指标.pdf",
     "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources/01_从源码到可执行文件.pdf",
     "10_教材笔记/CO/chapter 01 计算机系统概述与性能/01_chapter 概览.md.md",
     "10_教材笔记/CO/chapter 01 计算机系统概述与性能/resources",
     "99_Templates/02_基本知识点.md.md",
-    "未命名.md",
     "10_教材笔记/CO/chapter 01 计算机系统概述与性能",
     "10_教材笔记/CO",
     "99_Templates/04_心得与套路模板.md.md",
@@ -266,7 +270,6 @@
     "04_心得与套路.md",
     "03_题目与错题.md",
     "欢迎.md",
-    "99_Templates",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
